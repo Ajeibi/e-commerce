@@ -15,7 +15,7 @@ This repository contains the code for an E-Commerce website built using React.js
 ## Getting Started
 1. **Clone the Repository:**
     ```
-    git clone https://github.com/your-username/e-commerce-website.git
+    git clone https://github.com/Ajeibi/e-commerce
     ```
 
 2. **Install Dependencies:**
